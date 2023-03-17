@@ -1,0 +1,10 @@
+Relative IO Directory : ..\Tests\TC1/PerformanceMetrics_Result.txt
+Single Stage Core Performance Metrics-----------------------------
+Number of cycles taken: 40
+Cycles per instruction: 1.02564
+Instructions per cycle : 0.975
+
+Single Stage Core Performance Metrics-----------------------------
+Number of cycles taken: 46
+Cycles per instruction: 1.17949
+Instructions per cycle : 0.847826
