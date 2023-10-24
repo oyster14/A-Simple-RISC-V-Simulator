@@ -1,1 +1,1 @@
-# A-Toy-RISC-V-Simulator
+# A-Simple-RISC-V-Simulator
